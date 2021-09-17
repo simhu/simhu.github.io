@@ -38,7 +38,7 @@ Coquand](https://www.cse.chalmers.se/~coquand/) also at the
   \[[journal](https://doi.org/10.1007/s10817-018-9472-6),
   [arXiv](https://arxiv.org/abs/1710.10941)\] (with Marc Bezem and
   Thierry Coquand), Journal of Automated Reasoning, 2018.
-- [*Canonicity for Cubical Type Theory*](papers/cttnormal.pdf)*
+- [*Canonicity for Cubical Type Theory*](papers/cttnormal.pdf)
   \[[journal](https://doi.org/10.1007/s10817-018-9469-1),
   [arXiv](https://arxiv.org/abs/1607.04156)\], Journal of Automated
   Reasoning, 2018.
