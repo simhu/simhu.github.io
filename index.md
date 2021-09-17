@@ -8,10 +8,8 @@ Simon Huber
 -----------
 
 This page collects some of my academic output. I was a postdoc in the
-[Programming Logic Group]
-(http://wiki.portal.chalmers.se/cse/pmwiki.php/ProgLog/ProgLog) at the
-[Department of Computer Science and Engineering]
-(https://www.chalmers.se/sv/institutioner/cse/Sidor/default.aspx),
+[Programming Logic Group](http://wiki.portal.chalmers.se/cse/pmwiki.php/ProgLog/ProgLog) at the
+[Department of Computer Science and Engineering](https://www.chalmers.se/sv/institutioner/cse/Sidor/default.aspx),
 [University of Gothenburg](http://www.gu.se).  Prior to that I wrote
 my [PhD thesis](misc/thesis.pdf) under supervision of [Thierry
 Coquand](https://www.cse.chalmers.se/~coquand/) also at the
