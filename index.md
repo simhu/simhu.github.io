@@ -21,44 +21,44 @@ Coquand](https://www.cse.chalmers.se/~coquand/) also at the
 
 ### Publications and drafts
 
-- Homotopy canonicity for cubical type theory
+- *Homotopy canonicity for cubical type theory*
   \[[jounal](https://doi.org/10.4230/LIPIcs.FSCD.2019.11)\] (with
   Thierry Coquand and Christian Sattler), Proceedings of FSCD 2019,
   2019.
-- Gluing for type theory
+- *Gluing for type theory*
   \[[journal](https://doi.org/10.4230/LIPIcs.FSCD.2019.25)\]
   (with Ambrus Kaposi and Christian Sattler), Proceedings of FSCD
   2019, 2019.
-- [On Higher Inductive Types in Cubical Type Theory](papers/hitcubical.pdf)
+- *[On Higher Inductive Types in Cubical Type Theory](papers/hitcubical.pdf)*
   \[[journal](https://doi.org/10.1145/3209108.3209197),
   [arXiv](https://arxiv.org/abs/1802.01170)\] (with Thierry Coquand
   and Anders Mörtberg), Proceedings of LICS 2018, 2018.
--  An Adequacy Theorem for Dependent Type Theory
+- *An Adequacy Theorem for Dependent Type Theory*
   \[[journal](https://doi.org/10.1007/s00224-018-9879-9)\]
   (with Thierry Coquand), Theory of Computing Systems, 2018.
-- [The univalence axiom in cubical sets](papers/csetua.pdf)
+- *[The univalence axiom in cubical sets](papers/csetua.pdf)*
   \[[journal](https://doi.org/10.1007/s10817-018-9472-6),
   [arXiv](https://arxiv.org/abs/1710.10941)\] (with Marc Bezem and
   Thierry Coquand), Journal of Automated Reasoning, 2018.
-- [Canonicity for Cubical Type Theory](papers/cttnormal.pdf)
+- *[Canonicity for Cubical Type Theory](papers/cttnormal.pdf)*
   \[[journal](https://doi.org/10.1007/s10817-018-9469-1),
   [arXiv](https://arxiv.org/abs/1607.04156)\], Journal of Automated
   Reasoning, 2018.
-- [Cubical Type Theory: a constructive interpretation of the
-  univalence axiom](papers/cubicaltt.pdf)
+- *[Cubical Type Theory: a constructive interpretation of the
+  univalence axiom](papers/cubicaltt.pdf)*
   \[[journal](http://dx.doi.org/10.4230/LIPIcs.TYPES.2015.5),
   [arXiv](https://arxiv.org/abs/1611.02108)\] (with Cyril Cohen,
   Thierry Coquand, and Anders Mörtberg), Proceedings of TYPES 2015,
   2018.
-- [A Model of Type Theory in Cubical Sets](papers/model1.pdf)
+- *[A Model of Type Theory in Cubical Sets](papers/model1.pdf)*
   \[[journal](http://dx.doi.org/10.4230/LIPIcs.TYPES.2013.107)\] (with
   Marc Bezem and Thierry Coquand), Proceedings of TYPES 2013, 2014.
-- [A generalization of the Takeuti–Gandy interpretation](papers/v5.pdf)
+- *[A generalization of the Takeuti–Gandy interpretation](papers/v5.pdf)*
   \[[journal](http://dx.doi.org/10.1017/S0960129514000504)\]
   (with Bruno Barras and Thierry Coquand), Mathematical Structures
   of Computer Science, Volume 25, Special Issue 05, pp. 1071-1099,
   2015.
-- [Towards a formal theory of computability](papers/tcfplus.pdf) (with
+- *[Towards a formal theory of computability](papers/tcfplus.pdf)* (with
   Helmut Schwichtenberg and Basil Karádais), In: R. Schindler, ed.,
   Ways of Proof Theory: Festschrift for W. Pohlers, 2010.
 
