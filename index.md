@@ -8,12 +8,12 @@ Simon Huber
 -----------
 
 This page collects some of my academic output. I was a postdoc in the
-[Programming Logic Group](http://wiki.portal.chalmers.se/cse/pmwiki.php/ProgLog/ProgLog) at the
+[Programming Logic Group](https://wiki.portal.chalmers.se/cse/pmwiki.php/ProgLog/ProgLog) at the
 [Department of Computer Science and Engineering](https://www.chalmers.se/sv/institutioner/cse/Sidor/default.aspx),
-[University of Gothenburg](http://www.gu.se).  Prior to that I wrote
+[University of Gothenburg](https://www.gu.se).  Prior to that I wrote
 my [PhD thesis](misc/thesis.pdf) under supervision of [Thierry
 Coquand](https://www.cse.chalmers.se/~coquand/) also at the
-[University of Gothenburg](http://www.gu.se).
+[University of Gothenburg](https://www.gu.se).
 
 ---
 
@@ -44,15 +44,15 @@ Coquand](https://www.cse.chalmers.se/~coquand/) also at the
   Reasoning, 2018.
 - [*Cubical Type Theory: a constructive interpretation of the
   univalence axiom*](papers/cubicaltt.pdf)
-  \[[doi](http://dx.doi.org/10.4230/LIPIcs.TYPES.2015.5),
+  \[[doi](https://dx.doi.org/10.4230/LIPIcs.TYPES.2015.5),
   [arXiv](https://arxiv.org/abs/1611.02108)\] (with Cyril Cohen,
   Thierry Coquand, and Anders Mörtberg), Proceedings of TYPES 2015,
   2018.
 - [*A Model of Type Theory in Cubical Sets*](papers/model1.pdf)
-  \[[doi](http://dx.doi.org/10.4230/LIPIcs.TYPES.2013.107)\] (with
+  \[[doi](https://dx.doi.org/10.4230/LIPIcs.TYPES.2013.107)\] (with
   Marc Bezem and Thierry Coquand), Proceedings of TYPES 2013, 2014.
 - [*A generalization of the Takeuti–Gandy interpretation*](papers/v5.pdf)
-  \[[doi](http://dx.doi.org/10.1017/S0960129514000504)\]
+  \[[doi](https://dx.doi.org/10.1017/S0960129514000504)\]
   (with Bruno Barras and Thierry Coquand), Mathematical Structures
   of Computer Science, Volume 25, Special Issue 05, pp. 1071-1099,
   2015.
@@ -95,7 +95,7 @@ Coquand](https://www.cse.chalmers.se/~coquand/) also at the
 ### Theses
 
 - [*Cubical Intepretations of Type Theory*](misc/thesis.pdf)
-  \[[GUPEA](http://hdl.handle.net/2077/48890)\], PhD Thesis, 2016.
+  \[[GUPEA](https://hdl.handle.net/2077/48890)\], PhD Thesis, 2016.
 - [*A Model of Type Theory in Cubical Sets*](misc/lic.pdf), Licentiate
   Thesis, 2015.
 - [*On the Computational Content of Choice Axioms*](misc/da.pdf),
