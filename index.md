@@ -19,6 +19,9 @@ Coquand](https://www.cse.chalmers.se/~coquand/) also at the
 
 ### Publications and drafts
 
+- *Canonicity and homotopy canonicity for cubical type theory*
+  \[[arXiv](https://arxiv.org/abs/1902.06572)\] (with Thierry Coquand
+  and Christian Sattler), to appear in LMCS, 2022.
 - *Homotopy canonicity for cubical type theory*
   \[[doi](https://doi.org/10.4230/LIPIcs.FSCD.2019.11)\] (with
   Thierry Coquand and Christian Sattler), Proceedings of FSCD 2019,
