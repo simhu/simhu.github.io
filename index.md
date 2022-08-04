@@ -109,7 +109,7 @@ Coquand](https://www.cse.chalmers.se/~coquand/) also at the
 
 ### Other
 
-- An unfinished [attempt](https://bitbucket.org/simhu/ecwf/) to define an
+- An unfinished [attempt](https://github.com/simhu/ecwf/) to define an
   initial E-cwf with a total interpretation function in Agda.
 - A [note](misc/hcomp.pdf) about a variant of cubical type theory
   suited for higher inductive types, 2017.
